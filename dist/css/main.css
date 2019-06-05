@@ -284,9 +284,9 @@ main {
 @media screen and (max-width: 500px) {
   main#home h1 {
     margin-top: 10vh;
-    font-size: 4.2rem; }
+    font-size: 3.6rem; }
   .projects {
     grid-template-columns: 1fr; }
   main#contact h1 {
     margin-top: 10vh;
-    font-size: 4.2rem; } }
+    font-size: 3.6rem; } }
