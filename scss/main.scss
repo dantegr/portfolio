@@ -89,7 +89,7 @@ main {
   display: grid;
   grid-gap: 30px;
   grid-template-areas: 
-  'bio bio bio-image' 
+  'bio bio bio-image'
   'job1 job2 job3';
   grid-template-columns: repeat(3, 1fr);
 
@@ -99,6 +99,7 @@ main {
     border-radius: 50%;
     border: $secondary-color 5px solid;
   }
+
   
   .bio {
     grid-area: bio;
